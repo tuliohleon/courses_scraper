@@ -1,6 +1,6 @@
 # Scraper de Cursos
 
-Script en Python para extraer información de grupos y cupos de cursos desde la plataforma FIMLM.
+Script en Python para extraer información de grupos y cupos de cursos desde la plataforma.
 
 ## Descripción
 
@@ -51,4 +51,3 @@ El CSV resultante contiene las siguientes columnas:
 ## Notas
 
 - El script incluye un delay de 1.5 segundos entre requests para respetar al servidor.
-- Las URLs deben seguir el formato: `https://campus.fimlm.org/inscripcion/{insc}/{tema}/{periodo}`
