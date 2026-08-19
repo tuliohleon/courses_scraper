@@ -1,4 +1,4 @@
-url,convocatoria,tema_id,periodo,curso,pais,idioma,id_grupo,codigo_grupo,dias,horario,zona_horaria,tipo_grupo,cupo_total,cupo_disponible,tiene_cupos
+﻿url,convocatoria,tema_id,periodo,curso,pais,idioma,id_grupo,codigo_grupo,dias,horario,zona_horaria,tipo_grupo,cupo_total,cupo_disponible,tiene_cupos
 https://campus.fimlm.org/inscripcion/j232691l/31/1,j232691l,31,1,Bienestar para la Persona Mayor,Colombia,Español,4219,BPM-P-01,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,27,Sí
 https://campus.fimlm.org/inscripcion/j232691l/31/1,j232691l,31,1,Bienestar para la Persona Mayor,Colombia,Español,4220,BPM-P-02,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,14,Sí
 https://campus.fimlm.org/inscripcion/j232691l/31/1,j232691l,31,1,Bienestar para la Persona Mayor,Colombia,Español,4221,BPM-P-03,Viernes,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,27,Sí
@@ -7,11 +7,11 @@ https://campus.fimlm.org/inscripcion/j232691l/54/1,j232691l,54,1,Comprensión Le
 https://campus.fimlm.org/inscripcion/j232691l/54/1,j232691l,54,1,Comprensión Lectora,Colombia,Español,4226,CL-P-04,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/54/1,j232691l,54,1,Comprensión Lectora,Colombia,Español,4227,CL-P-05,Miércoles,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/54/1,j232691l,54,1,Comprensión Lectora,Colombia,Español,4815,CL-P-01,Miércoles,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,0,No
-https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4481,DH-P-01,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,1,Sí
-https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4482,DH-P-02,Viernes,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,16,Sí
-https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4483,DH-P-03,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,22,Sí
-https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4484,DH-P-04,Jueves,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,21,Sí
-https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4485,DH-P-05,Miércoles,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,15,Sí
+https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4481,DH-P-01,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
+https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4482,DH-P-02,Viernes,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,15,Sí
+https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4483,DH-P-03,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,21,Sí
+https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4484,DH-P-04,Jueves,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,20,Sí
+https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4485,DH-P-05,Miércoles,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,14,Sí
 https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,4487,DH-P-07,Martes,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,32,Sí
 https://campus.fimlm.org/inscripcion/j232691l/2/1,j232691l,2,1,Despertar Humano,Colombia,Español,5035,DH-P-06,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4508,EH-P-01,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
@@ -19,15 +19,15 @@ https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del H
 https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4511,EH-P-04,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,40,Sí
 https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4512,EH-P-05,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,15,Sí
 https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4513,EH-P-06,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,0,No
-https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4817,EH-P-03,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,30,Sí
-https://campus.fimlm.org/inscripcion/j232691l/11/1,j232691l,11,1,Costos para Emprendedores/Contabilidad,Colombia,Español,4878,CEC-P-01,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,60,51,Sí
+https://campus.fimlm.org/inscripcion/j232691l/15/1,j232691l,15,1,Economía del Hogar,Colombia,Español,4817,EH-P-03,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,28,Sí
+https://campus.fimlm.org/inscripcion/j232691l/11/1,j232691l,11,1,Costos para Emprendedores/Contabilidad,Colombia,Español,4878,CEC-P-01,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,60,50,Sí
 https://campus.fimlm.org/inscripcion/j232691l/8/1,j232691l,8,1,Estrategias para la Búsqueda de Empleo,Colombia,Español,4256,EBE-P-01,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,39,Sí
 https://campus.fimlm.org/inscripcion/j232691l/8/1,j232691l,8,1,Estrategias para la Búsqueda de Empleo,Colombia,Español,4257,EBE-P-02,Miércoles,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,43,Sí
 https://campus.fimlm.org/inscripcion/j232691l/8/1,j232691l,8,1,Estrategias para la Búsqueda de Empleo,Colombia,Español,5081,EBE-P-03,Viernes,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,43,Sí
 https://campus.fimlm.org/inscripcion/j232691l/12/1,j232691l,12,1,Despertar Emprendedor,Colombia,Español,4276,DE-P-01,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/12/1,j232691l,12,1,Despertar Emprendedor,Colombia,Español,4277,DE-P-02,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/12/1,j232691l,12,1,Despertar Emprendedor,Colombia,Español,5034,DE-P-03,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,0,No
-https://campus.fimlm.org/inscripcion/j232691l/9/1,j232691l,9,1,Familias Empresarias del Campo,Colombia,Español,4814,FEC-P-01,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,60,30,Sí
+https://campus.fimlm.org/inscripcion/j232691l/9/1,j232691l,9,1,Familias Empresarias del Campo,Colombia,Español,4814,FEC-P-01,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,60,29,Sí
 https://campus.fimlm.org/inscripcion/j232691l/75/1,j232691l,75,1,Orientación Emprendedora,Colombia,Español,4449,OE-P-01,Viernes,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/75/1,j232691l,75,1,Orientación Emprendedora,Colombia,Español,4450,OE-P-02,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/75/1,j232691l,75,1,Orientación Emprendedora,Colombia,Español,4451,OE-P-03,Jueves,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,0,No
@@ -35,7 +35,7 @@ https://campus.fimlm.org/inscripcion/j232691l/75/1,j232691l,75,1,Orientación Em
 https://campus.fimlm.org/inscripcion/j232691l/4/1,j232691l,4,1,Mi Negocio en Internet,Colombia,Español,4903,MNI-P-01,Jueves,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,50,Sí
 https://campus.fimlm.org/inscripcion/j232691l/21/1,j232691l,21,1,Sistemas Nivel 2,Colombia,Español,4328,S2-P-02,Sábado,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,9,Sí
 https://campus.fimlm.org/inscripcion/j232691l/21/1,j232691l,21,1,Sistemas Nivel 2,Colombia,Español,4329,S2-P-03,Viernes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,5,Sí
-https://campus.fimlm.org/inscripcion/j232691l/21/1,j232691l,21,1,Sistemas Nivel 2,Colombia,Español,4330,S2-P-04,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,37,Sí
+https://campus.fimlm.org/inscripcion/j232691l/21/1,j232691l,21,1,Sistemas Nivel 2,Colombia,Español,4330,S2-P-04,Sábado,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,36,Sí
 https://campus.fimlm.org/inscripcion/j232691l/21/1,j232691l,21,1,Sistemas Nivel 2,Colombia,Español,4906,S2-P-01,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,14,Sí
 https://campus.fimlm.org/inscripcion/j232691l/3/1,j232691l,3,1,Sistemas e Informática | Nivel básico,Colombia,Español,4331,S1-P-01,Jueves,8:00 - 9:30 a.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/3/1,j232691l,3,1,Sistemas e Informática | Nivel básico,Colombia,Español,4332,S1-P-02,Miércoles,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,0,No
@@ -73,7 +73,7 @@ https://campus.fimlm.org/inscripcion/j232691l/20/1,j232691l,20,1,Italiano 1,Colo
 https://campus.fimlm.org/inscripcion/j232691l/63/1,j232691l,63,1,"Bisutería 1, 2",Colombia,Español,4232,BT-P-01,Martes,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,0,No
 https://campus.fimlm.org/inscripcion/j232691l/56/1,j232691l,56,1,Confección: Manejo de Máquinas,Colombia,Español,4677,CMM-P-01,Sábado,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,0,No
 https://campus.fimlm.org/inscripcion/j232691l/56/1,j232691l,56,1,Confección: Manejo de Máquinas,Colombia,Español,5033,CMM-P-02,Martes,14:00 - 15:30 p.m,America/Bogota,Estudiantes,60,0,No
-https://campus.fimlm.org/inscripcion/j232691l/55/1,j232691l,55,1,Repostería 2,Colombia,Español,4679,R2-P-01,Miércoles,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,42,Sí
+https://campus.fimlm.org/inscripcion/j232691l/55/1,j232691l,55,1,Repostería 2,Colombia,Español,4679,R2-P-01,Miércoles,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,40,Sí
 https://campus.fimlm.org/inscripcion/j232691l/55/1,j232691l,55,1,Repostería 2,Colombia,Español,4680,R2-P-02,Sábado,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,25,Sí
 https://campus.fimlm.org/inscripcion/j232691l/7/1,j232691l,7,1,Repostería 1,Colombia,Español,4351,R1-P-01,Jueves,10:00 - 11:30 a.m,America/Bogota,Estudiantes,50,0,No
 https://campus.fimlm.org/inscripcion/j232691l/7/1,j232691l,7,1,Repostería 1,Colombia,Español,4352,R1-P-02,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,50,0,No
@@ -85,5 +85,5 @@ https://campus.fimlm.org/inscripcion/j232691l/79/1,j232691l,79,1,Trenzas y Peina
 https://campus.fimlm.org/inscripcion/j232691l/82/1,j232691l,82,1,Pintura en madera 1,Colombia,Español,4448,PM-P-01,Sábado,10:00 - 11:30 a.m,America/Bogota,Estudiantes,60,0,No
 https://campus.fimlm.org/inscripcion/j232691l/57/1,j232691l,57,1,Modistería 1 (Faldas),Colombia,Español,4453,MF-P-01,Miércoles,14:00 - 15:30 p.m,America/Bogota,Estudiantes,60,0,No
 https://campus.fimlm.org/inscripcion/j232691l/57/1,j232691l,57,1,Modistería 1 (Faldas),Colombia,Español,4905,MF-P-02,Sábado,14:00 - 15:30 p.m,America/Bogota,Estudiantes,60,0,No
-https://campus.fimlm.org/inscripcion/j232691l/17/1,j232691l,17,1,El ABC del Reciclaje,Colombia,Español,4258,ABC-P-01,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,17,Sí
-https://campus.fimlm.org/inscripcion/j232691l/17/1,j232691l,17,1,El ABC del Reciclaje,Colombia,Español,4259,ABC-P-02,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,33,Sí
+https://campus.fimlm.org/inscripcion/j232691l/17/1,j232691l,17,1,El ABC del Reciclaje,Colombia,Español,4258,ABC-P-01,Martes,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,16,Sí
+https://campus.fimlm.org/inscripcion/j232691l/17/1,j232691l,17,1,El ABC del Reciclaje,Colombia,Español,4259,ABC-P-02,Jueves,20:00 - 21:30 p.m,America/Bogota,Estudiantes,50,32,Sí

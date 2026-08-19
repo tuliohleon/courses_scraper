@@ -129,7 +129,7 @@ def main():
             time.sleep(1.5)
 
     if todos:
-        with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
+        with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
             writer = csv.DictWriter(f, fieldnames=[
                 "url", "convocatoria", "tema_id", "periodo", "curso", "pais", "idioma",
                 "id_grupo", "codigo_grupo", "dias", "horario", "zona_horaria",
