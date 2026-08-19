@@ -82,7 +82,6 @@ def scrape_curso(url):
             dias = ", ".join(dias_raw) if isinstance(dias_raw, list) else str(dias_raw)
 
             resultados.append({
-                "url": url,
                 "convocatoria": params['insc'],
                 "tema_id": params['tema'],
                 "periodo": params['periodo'],
@@ -131,7 +130,7 @@ def main():
     if todos:
         with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
             writer = csv.DictWriter(f, fieldnames=[
-                "url", "convocatoria", "tema_id", "periodo", "curso", "pais", "idioma",
+                "convocatoria", "tema_id", "periodo", "curso", "pais", "idioma",
                 "id_grupo", "codigo_grupo", "dias", "horario", "zona_horaria",
                 "tipo_grupo", "cupo_total", "cupo_disponible", "tiene_cupos"
             ])
