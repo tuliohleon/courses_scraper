@@ -31,7 +31,6 @@ El CSV resultante contiene las siguientes columnas:
 
 | Columna | Descripción |
 |---------|-------------|
-| `url` | URL de origen |
 | `convocatoria` | Identificador de convocatoria (parte 1 de la URL) |
 | `tema_id` | Identificador del tema (parte 2 de la URL) |
 | `periodo` | Período (parte 3 de la URL) |
